@@ -4,7 +4,7 @@ import CocktailList from "../components/CocktailList";
 import SearchForm from "../components/SearchForm";
 
 const cocktailSearchUrl =
-  "https://www.thecocktaildb.com/api/json/v1/1/search.php?s=";
+  "https://www.thecocktaildb.com/api/json/v1/1/search.php?s=vodka";
 
 import { useQuery } from "@tanstack/react-query";
 
